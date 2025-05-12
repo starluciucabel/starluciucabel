@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Starluciuc Abel
-- 👀 I'm interested in improving myself whenever I can
-- 🌱 I’m currently learning  Java,  python, CSS, HTML, JavaScript, SQL, MySQL and NoSQL
-- 📫 You can reach me on instagram as: abelstarluciuc
+-  Hi, I’m Starluciuc Abel
+-  I'm interested in improving myself whenever I can
+-  I’m currently learning  Java,  python, CSS, HTML, JavaScript, SQL, MySQL and NoSQL
+-  You can reach me on instagram as: abelstarluciuc
